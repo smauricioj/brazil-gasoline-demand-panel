@@ -1,9 +1,3 @@
-<p align="right">
-  <a href="#english">🇺🇸 English</a> &nbsp;·&nbsp; <a href="#portuguese">🇧🇷 Português</a>
-</p>
-
----
-
 <a name="english"></a>
 
 # Gasoline Demand in Brazil: A State-Level Panel Approach
